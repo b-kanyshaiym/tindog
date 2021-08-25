@@ -1,0 +1,74 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title {
+    background-color: #da112f;  
+    color: rgb(245, 252, 246);
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Bold', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.navbar {
+    padding: 0 0  4.5rem;
+}
+
+.navbar-brand {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-size: 1.1 rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Light', sans-serif;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 45%;
+    transform: rotate(20deg);
+    margin-left: 8%;
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+color: #666659
+}
+
+#features {
+    padding: 7% 15%; 
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ec7464;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #e70628
+}
